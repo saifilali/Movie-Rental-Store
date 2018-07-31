@@ -139,3 +139,4 @@ C:\Users\19794\Desktop\Vidly\Vidly\bin\System.Web.Http.xml
 C:\Users\19794\Desktop\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
 C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
