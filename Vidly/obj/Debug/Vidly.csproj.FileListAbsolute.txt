@@ -140,3 +140,8 @@ C:\Users\19794\Desktop\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
 C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
 C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.Ado.dll
+C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.Core.dll
+C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.EF6.dll
+C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.Mvc5.dll
