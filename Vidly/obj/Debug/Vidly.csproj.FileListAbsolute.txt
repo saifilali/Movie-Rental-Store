@@ -145,3 +145,7 @@ C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.AspNet.dll
 C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.Core.dll
 C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.EF6.dll
 C:\Users\19794\Desktop\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddingRequiredAttribute.resources
+C:\Users\19794\Desktop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie1.resources

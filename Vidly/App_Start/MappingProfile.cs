@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Vidly.Dto;
 using Vidly.Dtos;
 using Vidly.Models;
 
@@ -13,6 +14,7 @@ namespace Vidly.App_Start
             Mapper.CreateMap<CustomerDto, Customer>(); Mapper.CreateMap<Movie, MovieDto>();
             Mapper.CreateMap<MembershipType, MembershipTypeDto>();
             Mapper.CreateMap<Genre, GenreDto>();
+            
 
 
             // Dto to Domain
